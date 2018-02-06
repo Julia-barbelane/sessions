@@ -1,6 +1,6 @@
 ---
 title: Communication Non Violente
-label: 8 Nov - Montpellier
+label: En cours de reprogramation - Toulouse
 owner: walkingdev/cnv
 ---
 
